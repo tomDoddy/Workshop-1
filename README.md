@@ -1,4 +1,13 @@
+<<<<<<<<< Temporary merge branch 1
 
+# Workshop-1
+Beast mode baby
+u guys kinda poopy
+
+i love bussy
+
+peek a boo
+=========
 """CONVENTIONS:
 positions are done row-column from the bottom left and are both numbers. This corresponds to the alpha-number system in traditional chess while being computationally useful. they are specified as tuples
 """
@@ -237,3 +246,6 @@ uniDict = {WHITE : {Pawn : "♙", Rook : "♖", Knight : "♘", Bishop : "♗", 
 
         
 
+
+Game()
+>>>>>>>>> Temporary merge branch 2
