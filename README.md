@@ -1,6 +1,2 @@
 # Workshop-1
-Beast mode baby
-u guys kinda poopy
-thats so rude :(
-    
-)
+u man actually stink
