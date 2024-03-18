@@ -237,5 +237,3 @@ uniDict = {WHITE : {Pawn : "♙", Rook : "♖", Knight : "♘", Bishop : "♗", 
 
         
 
-
-Game()
